@@ -1,0 +1,32 @@
+{
+  "name": "charts",
+  "dependencies": {
+    "ember": "1.11.1",
+    "ember-cli-shims": "ember-cli/ember-cli-shims#0.0.3",
+    "ember-cli-test-loader": "ember-cli-test-loader#0.1.3",
+    "ember-data": "1.0.0-beta.16.1",
+    "ember-load-initializers": "ember-cli/ember-load-initializers#0.1.4",
+    "ember-qunit": "0.3.1",
+    "ember-qunit-notifications": "0.0.7",
+    "ember-resolver": "~0.1.15",
+    "jquery": "^1.11.1",
+    "loader.js": "ember-cli/loader.js#3.2.0",
+    "qunit": "~1.17.1",
+     "ember-simple-auth": "*",
+    "jquery-ui": "1.10.4",
+    "entypo": "*",
+    "bootstrap": "3.1.1",
+    "jquery-validation": "1.12.0",
+    "ember-localstorage-adapter": "0.3.1",
+    "moment": "2.8.3",
+    "toastr": "2.1.0",
+    "ember-addons.bs_for_ember": "0.7.0",
+    "ember-c3": "0.1.2",
+    "Jcrop": "0.9.12",
+    "jspdf": "1.0.272",
+    "pdfmake": "0.1.13",
+    "utf8": "2.0.0",
+    "underscore": "1.7.0",
+    "pikaday": "1.2.0"
+  }
+}
